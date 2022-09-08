@@ -255,9 +255,8 @@ App Services applications. Tutorials start with git repositories you can clone
 and run, and walk you through code excerpts that are specific to working
 with App Services.
 
-To get started with your first web app, follow the :ref:`Task Tracker 
-application tutorial <tutorial-task-tracker-web>`. You can also refer to the 
-:ref:`Web SDK <web-intro>` documentation for TypeScript and JavaScript.
+To get started with your first web app, refer to the :ref:`Web SDK <web-intro>`
+documentation for TypeScript and JavaScript.
 
 To get started with a backend app, follow our :ref:`GitHub Issue Tracker
 tutorial <backend-tutorial>`. 
